@@ -8,16 +8,16 @@ OR
 
 Use [Cram](https://www.cram.com/) to create digital flashcards.
 
-- First, go down the list of all the categories and choose the questions that you know the answers to, answer the question and then check your answer by googling.
-- Second, go down the list of all the categories and pick the questions that interest you or you would like to know more about, then google the answer and fill out the response.
-- Third, go back and answer questions the remaining questions.
+- **First**, go down the list of all the categories and choose the questions that you know the answers to, answer the question and then check your answer by researching.
+- **Second**, go down the list of all the categories and pick the questions that interest you or you would like to know more about, then research the answer and fill out the response.
+- **Third**, go back and answer questions the remaining questions.
 
 
 Interview Question Cheat Sheet
 
 ### General Questions
 
-1. Tell me about yourself (elevator pitch, 3 sentences maximum).  
+1. Tell me about yourself (elevator pitch, 3 sentences maximum).  **<-- Everyone start here.**
 1. Talk about your favorite project and what made it challenging.  
 1. Describe a difficult situation you have experienced in a project?  
 1. What kind of team environment are you looking for?
