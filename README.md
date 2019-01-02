@@ -77,3 +77,6 @@ Interview Question Cheat Sheet
 1. What is the difference between a unit test and a functional/integration test?
 1. What is the purpose of a code style linting tool?
 1. What are some advantages/disadvantages to testing your code?
+
+### Bonus:
+1. Explain lifecycle methods in React.
