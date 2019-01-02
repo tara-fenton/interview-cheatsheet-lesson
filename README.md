@@ -30,9 +30,9 @@ Interview Question Cheat Sheet
 ### Javascript Questions
 
 1. Explain event delegation
-1. Explain how this works in JavaScript
+    1. Explain how this works in JavaScript
 1. What's the difference between a variable that is: `null`, `undefined` or undeclared?
-1. How would you go about checking for any of these states?
+    1. How would you go about checking for any of these states?
 1. Can you describe the main difference between a `forEach` loop and a `.map()` loop and why you would pick one versus the other?
 1. Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 1. Explain `Function.prototype.bind`.
@@ -80,3 +80,7 @@ Interview Question Cheat Sheet
 
 ### Bonus:
 1. Explain lifecycle methods in React.
+
+# References
+- [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [The Holy Grail of Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
