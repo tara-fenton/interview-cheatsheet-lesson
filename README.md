@@ -2,7 +2,7 @@
 
 You will be creating an Interview Cheatsheet based on common interview questions as a reference. 
 
-Use keynote to create a slide with the question and then a slide with the answer
+Use Keynote to create a slide with the question and then a slide with the answer
 
 OR
 
