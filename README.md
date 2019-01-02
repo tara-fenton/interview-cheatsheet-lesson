@@ -31,18 +31,18 @@ Interview Question Cheat Sheet
 
 1. Explain event delegation
 1. Explain how this works in JavaScript
-1. What's the difference between a variable that is: null, undefined or undeclared?
+1. What's the difference between a variable that is: `null`, `undefined` or undeclared?
 1. How would you go about checking for any of these states?
-1. Can you describe the main difference between a forEach loop and a .map() loop and why you would pick one versus the other?
-1. Difference between: function Person(){}, var person = Person(), and var person = new Person()?
-1. Explain Function.prototype.bind.
+1. Can you describe the main difference between a `forEach` loop and a `.map()` loop and why you would pick one versus the other?
+1. Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
+1. Explain `Function.prototype.bind`.
 1. Explain Ajax in as much detail as possible.
 1. What are the advantages and disadvantages of using Ajax?
 1. Explain how JSONP works (and how it's not really Ajax).
 1. Explain "hoisting".
 1. Describe event bubbling.
 1. Describe event capturing.
-1. What is the difference between == and ===?
+1. What is the difference between `==` and `===`?
 1. Why is it called a Ternary operator, what does the word "Ternary" indicate?
 1. What is "use strict";? what are the advantages and disadvantages to using it?
 1. What are the pros and cons of using Promises instead of callbacks?
@@ -69,7 +69,7 @@ Interview Question Cheat Sheet
 1. What's the difference between a relative, fixed, absolute and statically positioned element?
 1. What's the difference between inline and inline-block?
 1. Describe pseudo-elements and discuss what they are used for.
-1. What does * { box-sizing: border-box; } do? What are its advantages?
+1. What does `* { box-sizing: border-box; }` do? What are its advantages?
 
 
 ### Testing Questions:
