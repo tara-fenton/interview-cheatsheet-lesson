@@ -1,12 +1,16 @@
 # Interview Cheatsheet
 
+## Getting Started
+
 You will be creating an Interview Cheatsheet based on common interview questions as a reference. 
 
-Use Keynote to create a slide with the question and then a slide with the answer
+- Use Keynote to create a slide with the question and then a slide with the answer
 
-OR
+**OR**
 
-Use [Cram](https://www.cram.com/) to create digital flashcards.
+- Use [Cram](https://www.cram.com/) to create digital flashcards.
+
+********
 
 - **First**, go down the list of all the categories and choose the questions that you know the answers to, answer the question and then check your answer by researching.
 - **Second**, go down the list of all the categories and pick the questions that interest you or you would like to know more about, then research the answer and fill out the response.
