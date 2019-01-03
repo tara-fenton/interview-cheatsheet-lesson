@@ -17,8 +17,6 @@ You will be creating an Interview Cheatsheet based on common interview questions
 - **Third**, go back and answer questions the remaining questions.
 
 
-Interview Question Cheat Sheet
-
 ### General Questions
 
 1. Tell me about yourself (elevator pitch, 3 sentences maximum).  **<-- Everyone start here.**
