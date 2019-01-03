@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-You will be creating an Interview Cheatsheet based on common interview questions as a reference. 
+You will be creating an Interview Cheatsheet based on common interview questions as a personal reference. 
 
 - Use Keynote to create a slide with the question and then a slide with the answer
 
