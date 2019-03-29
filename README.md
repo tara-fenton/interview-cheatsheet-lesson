@@ -20,6 +20,7 @@ You will be creating an Interview Cheatsheet based on common interview questions
 ### General Questions
 
 1. Tell me about yourself (elevator pitch, 3 sentences maximum).  **<-- Everyone start here.**
+    - what are you doing now, what did you used to do and what do you want to do.
 1. Talk about your favorite project and what made it challenging.  
 1. Describe a difficult situation you have experienced in a project?  
 1. What kind of team environment are you looking for?
