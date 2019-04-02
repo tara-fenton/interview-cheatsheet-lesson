@@ -12,8 +12,8 @@ You will be creating an Interview Cheatsheet based on common interview questions
 
 ********
 
-- **First**, go down the list of all the categories and choose the questions that you know the answers to, answer the question and then check your answer by researching.
-- **Second**, go down the list of all the categories and pick the questions that interest you or you would like to know more about, then research the answer and fill out the response.
+- **First**, answer all the questions you know the answer to.
+- **Second**, go down the list of all the categories and pick the questions that interest you, then fill in the answer.
 - **Third**, go back and answer questions the remaining questions.
 
 
