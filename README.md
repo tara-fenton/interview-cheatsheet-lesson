@@ -81,8 +81,13 @@ You will be creating an Interview Cheatsheet based on common interview questions
 1. What is the purpose of a code style linting tool?
 1. What are some advantages/disadvantages to testing your code?
 
-### Bonus:
+### React:
 1. Explain lifecycle methods in React.
+1. What is jsx?
+1. What are the features of React?
+1. What is state in React and how is it used?
+1. What are props?
+1. How can you update the state of a component?
 
 # References
 - [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
