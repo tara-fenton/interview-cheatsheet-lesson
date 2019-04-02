@@ -12,7 +12,7 @@ You will be creating an Interview Cheatsheet based on common interview questions
 
 ********
 
-- **First**, answer all the questions you know the answer to.
+- **First**, answer all the questions you know the answer to. Check all your answers by researching. 
 - **Second**, go down the list of all the categories and pick the questions that interest you, then fill in the answer.
 - **Third**, go back and answer questions the remaining questions.
 
